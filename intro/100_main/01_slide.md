@@ -39,6 +39,9 @@
 !SLIDE
 # Can you feel the pain?
 
+!SLIDE center transition=scrollUp
+![pain](pain.jpg)
+
 !SLIDE
 # Now? #
 
@@ -75,6 +78,9 @@
 !SLIDE
 # But how to convice the customer? #
 
+!SLIDE center transition=scrollUp
+![check](gun_l.jpg)
+
 !SLIDE smbullets
 ## You might run in to a discussion like this: ##
 
@@ -87,17 +93,27 @@
 * Why should I then spend money for it?
 
 !SLIDE
-### {Picture of sbd. threatening sbd. else with a gun}
-
-!SLIDE
 ## Help your customer to understand the ##
 # nature of software development! #
 
-!SLIDE
-# Reasons to migrate to a new version #
+!SLIDE smbullets incremental
+# Reasons to migrate to Rails 3 #
+
+* Keep your developers
+* Get ready for Rails 3.1 and Rails 4
+* Mostly faster
+* Router
+* Bundler
+* Arel
+* Way more modularity
 
 !SLIDE
-### {Put very conving reasons here}
+# Need more tech stuff?
+
+!SLIDE
+# Have a look at
+## http://www.slideshare.net/crnixon/rails-3-7983843
+
 
 !SLIDE
 # By not updating to rails3 your today's code is your legacy code of tomorrow. 
@@ -105,8 +121,8 @@
 !SLIDE
 # Costs for future features increase rapidly.
 
-!SLIDE
-### {Put a picture of nuclear waste here}
+!SLIDE center transition=scrollUp
+![check](atommuell.jpg)
 
 !SLIDE
 # Surely a ...
@@ -121,14 +137,7 @@
 # You can strecht it, ... #
 
 !SLIDE
-### {Streched picture here}
-
-!SLIDE
 # ... but only to some extend.
-
-!SLIDE
-### {Broken picture here}
-
 
 !SLIDE
 # How to avoid the rubber band slapping your face?#
@@ -161,9 +170,6 @@
 - Go back to step 1.
 
 !SLIDE
-# We've come full circle.
-
-!SLIDE
 # How to help your developers to learn Rails 3
 
 !SLIDE bullets incremental
@@ -171,12 +177,15 @@
 * Buy the books the need
 
 !SLIDE
-# Give them space to read, watch and play! 
-## (This is the most difficult one)
+# Give them **space**
+## to **read**, **watch** and **play**! 
+### (This is the most difficult one)
 
 !SLIDE
-## Fire people who don't care - 
-# hire those who do :-)
+# Hire people who care
+
+!SLIDE
+## fire those who don't :-)
 
 !SLIDE
 ## We'll this sounds all very nice in theory but ...
@@ -188,11 +197,11 @@
 # Crapy Code
 
 !SLIDE
-# Crapy Plugins, Gems, ...
-## ... being not maintained any more
+# Legacy plugins, gems, ...
+## being not maintained any more
 
 !SLIDE
-# No or crapy tests
+# No or sloppy tests
 
 !SLIDE
 # No or not enough money
