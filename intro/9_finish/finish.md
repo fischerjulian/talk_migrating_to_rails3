@@ -1,6 +1,9 @@
 !SLIDE Questions?
 # Questions?
 
+!SLIDE Questions?
+# Discussion.
+
 !SLIDE
 # Resources
 ### Find Rails 3 related CHANGELOGs and Screencasts linked in this blog post.

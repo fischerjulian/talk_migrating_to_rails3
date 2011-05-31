@@ -32,20 +32,18 @@
 !SLIDE smbullets incremental
 # Brief history of pain #
 
-* Rails 1.x -> Rails 1.2.x
+* Rails 1.x -> Rails 1.2.6 (Giving dep warnings, pagination)
 * Rails 1.2.x -> Rails 2.0
-* Rails 2.0 -> Rails 2.x
-* Rails 2.x -> Rails 3.0
+* Rails 2.0 -> Rails 2.3
+* Rails 2.3 -> Rails 3.0 (Dep warnings)
 * Rails 3.0 -> Rails 3.1
-
-!SLIDE
-# Can you feel the pain?
 
 !SLIDE center transition=scrollUp
 ![pain](pain.jpg)
 
 !SLIDE
-# Now? #
+# Can you feel the pain?
+
 
 !SLIDE
 # So what is the conclusion? #
@@ -55,6 +53,11 @@
 
 !SLIDE
 # No! #
+
+!SLIDE
+## Every car, every house and every software application requires maintenance. ##
+### That's a universal fact! ###
+
 
 !SLIDE
 # Rails upgrades 
@@ -67,10 +70,6 @@
 !SLIDE
 #Your application has to adapt.#
  
-!SLIDE
-## Every car, every house and every software application requires maintenance. ##
-### That's a universal fact! ###
-
 !SLIDE
 # So keep on updating. #
 
@@ -160,6 +159,7 @@
 # 2. New a Rails final comes out:
 
 * Upgrade your internal projects to the new version.
+* Remove deprication warnings!
 * See whether there are some show stoppers, performance issues, etc.
 * If there are issues, you can wait for the next patch level before proceed migrating your projects.
 * New projects will be started with the final version.
