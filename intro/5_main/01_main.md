@@ -1,10 +1,12 @@
 !SLIDE 
-# Migrating a development company to Rails 3 #
-## Julian Fischer ##
-### @railshoster ###
+# Migrating a 18 people dev company to Rails 3
+
+
+!SLIDE
+# Agenda
 
 !SLIDE bullets incremental
-# Agenda #
+# Agenda
 
 * Be convinced of the need to upgrade.
 * Convince customer of the need to upgrade.
