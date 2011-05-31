@@ -32,10 +32,10 @@
 !SLIDE smbullets incremental
 # Brief history of pain #
 
-* Rails 1.x -> Rails 1.2.6 (Giving dep warnings, pagination)
+* Rails 1.x -> Rails 1.2.6
 * Rails 1.2.x -> Rails 2.0
 * Rails 2.0 -> Rails 2.3
-* Rails 2.3 -> Rails 3.0 (Dep warnings)
+* Rails 2.3 -> Rails 3.0
 * Rails 3.0 -> Rails 3.1
 
 !SLIDE center transition=scrollUp
@@ -97,16 +97,22 @@
 ## Help your customer to understand the ##
 # nature of software development! #
 
-!SLIDE smbullets incremental
+!SLIDE bullets incremental
 # Reasons to migrate to Rails 3 #
 
+* Feature costs will remain low
+* Security
+* Be prepared for investor audits
 * Keep your developers
 * Get ready for Rails 3.1 and Rails 4
+
+!SLIDE bullets incremental
+# Reasons to migrate to Rails 3 #
 * Mostly faster
+* Way more modularity
 * Router
 * Bundler
 * Arel
-* Way more modularity
 
 !SLIDE
 # Need more tech stuff?
